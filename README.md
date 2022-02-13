@@ -1,4 +1,4 @@
-# Guess Number
+# Counting Cows and Bulls
 *Simple game to receive two inputs:*
 
 *- The original number;*
